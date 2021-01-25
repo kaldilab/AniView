@@ -10,4 +10,4 @@
 
 [Kaldi Lab](http://kaldilab.com/)의 AniView Website의 설명을 참고하세요.
 
-- [ReactPress](http://kaldilab.com/wp/aniview/)
+- [AniView](http://kaldilab.com/wp/aniview/)
